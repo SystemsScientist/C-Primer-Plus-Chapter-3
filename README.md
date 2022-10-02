@@ -1,7 +1,7 @@
 # C Primer Plus - Chapter 3 Exercises and Solutions
 
 This repository contains the Listings, Exercises, and solutions
-for Chapter 3 of C Primer Plus, 5th edition, by Stepen Prata.
+for Chapter 3 of C Primer Plus, 5th edition, by Stephen Prata.
 
 I created this repository for two reasons. First, I wanted to
 incorporate Git and GitHub into my workflow, so I could give
