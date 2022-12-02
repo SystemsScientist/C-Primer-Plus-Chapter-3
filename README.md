@@ -1,7 +1,12 @@
 # C Primer Plus - Chapter 3 Exercises and Solutions
 
 This repository contains the Listings, Exercises, and solutions
+<<<<<<< HEAD
 for Chapter 3 of C Primer Plus, 5th edition, by Stephen Prata.
+=======
+for Chapter 3 of C Primer Plus, 5th edition, by Stepen Prata, 
+which covers Data and C.
+>>>>>>> c1921e0 (Updating README.md file)
 
 I created this repository for two reasons. First, I wanted to
 incorporate Git and GitHub into my workflow, so I could give
@@ -20,3 +25,10 @@ Matt
 Note: My Fedora 36 virtual system utilizes 4GB of RAM and 100GB
 of Storage on 4 cores, provisioned from my Ubuntu 20.04 LTS
 system, which has 32GB of RAM and 2TB of Storage on 8 cores.
+
+Technical Notes and Considerations
+------------------------------------------------------------------
+
+To compile and execute the Chapter 3 files,
+
+
